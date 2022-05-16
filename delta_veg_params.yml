@@ -1,0 +1,23 @@
+--- # parameters for DeltaRCM with vegetation
+f_bedload: 0.25
+totaltimestep: 5000
+L: 60
+W: 120
+plotinterval: 833
+plotintervalstrat: 833
+runID: 1
+itermax: 1
+Np_water: 100
+Np_sed: 100
+veg: 1
+# f_bedload: % of sand
+# totaltimestep: duration 
+# L: domain size (# of cells in x-direction); typically on order of 100
+# W: domain size (# of cells in y-direction); W = 2L for semicircle growth
+# plotinterval: how many time steps pass between plotting
+# plotintervalstrat: record strata less frequently
+# runID: for plot naming 
+# itermax: number of interations of water routing
+# Np_water: number of water parcels; typically 2000
+# Np_sed: number of sediment parcels
+# veg: veg on or off
