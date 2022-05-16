@@ -11,8 +11,22 @@ This repository houses information related to the coastal vegetation group.
 Mangroves and salt marsh ecotone regions are migrating towards the poles due to climatic changes such as increasing temperatures and shifting salinity regimes. IMPLICATION OF CHANGE. In this analysis, we examine how dominant vegetation type (i.e., marsh or mangroves) influences delta evolution and sediment accretion over a 50 year time period.
 
 ## Learning Objectives
+Students will be able to run simulations to explore differences in deltaic evolution based on mangrove versus salt marsh growth.
+
+* Set parameter values
+* Change based on whether student wants mangrove or salt marsh on the delta
+* Run for different time intervals
+
 ### Skills
+
+* Calling a script from a jupyter notebook
+* Creating a gif of output images
+* Describe deltaic evolution through time
+
 ### Key Concepts
+* Mangroves and salt marsh thrive in different coastal regions across the globe
+* 
+
 
 ## Acknowledgements
 This material was enabled and encouraged by the contributors' participation in the Community Surface Dynamics Modeling System (CSDMS) Spring School in 2022. This work was [presented](https://docs.google.com/presentation/d/1cbtoDjHqp55DL6QAqcN4Qq-_cWcGRhF7ubgK3-Nt650/edit?usp=sharing) during the 2022 CSDMS Annual Meeting.
