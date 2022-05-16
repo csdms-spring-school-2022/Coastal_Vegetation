@@ -18,14 +18,13 @@ Students will be able to run simulations to explore differences in deltaic evolu
 * Run for different time intervals
 
 ### Skills
-
 * Calling a script from a jupyter notebook
 * Creating a gif of output images
 * Describe deltaic evolution through time
 
 ### Key Concepts
 * Mangroves and salt marsh thrive in different coastal regions across the globe
-* 
+* Effects of sand and mud fraction within the deltaic environment
 
 
 ## Acknowledgements
