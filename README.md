@@ -17,6 +17,9 @@ Students will be able to run simulations to explore differences in deltaic evolu
 * Change based on whether student wants mangrove or salt marsh on the delta
 * Run for different time intervals
 
+![test](https://github.com/csdms-spring-school-2022/Coastal_Vegetation/blob/main/mangrove_mud_75.gif)
+
+
 ### Skills
 * Calling a script from a jupyter notebook
 * Creating a gif of output images
